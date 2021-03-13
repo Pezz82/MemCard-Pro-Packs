@@ -1,0 +1,1 @@
+SLUS-00892-1.mcd - https://gamefaqs.gamespot.com/ps/197343-final-fantasy-viii/saves - Dated 06/02/2000 Made by Space Ace `The Ultimate FF 8 Save! 100 Hero drinks, all cards, Ragnarock with C C card players, all limit breaks, all G.F abilities, all ultimate weapons, all characters level 100 + all 6 characters fully junctioned for battle with Omega Weapon and Ultimecia.`
