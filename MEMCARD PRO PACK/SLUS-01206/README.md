@@ -1,0 +1,2 @@
+SLUS-01206-1.mcd - https://gamefaqs.gamespot.com/ps/197152-dragon-warrior-vii/saves  
+    1. Dated 12/28/2001 By warlordace `The character's level's are 99, all human classes mastered, all monsters found, the sim city is city is a Grand Farm(with God in the town), Orgodemir and God have been beaten, found 110 tiny medals.`
