@@ -1,0 +1,1 @@
+SCUS-94457-1.mcd - https://gamefaqs.gamespot.com/ps/197483-grandia/saves - Dated 11/25/2019 By DJ_Shang_Tsung `Saves from different parts of the game with different characters in your party. In the final save all items are found and the party have good parameters and the best equipment.`
