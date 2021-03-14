@@ -1,0 +1,1 @@
+SLUS-01042-1.mcd - https://gamefaqs.gamespot.com/ps/198266-parasite-eve-ii/saves - Dated 12/24/2003 By GKing `Clear data with all modes and gunblade unlocked. Saves to view true ending(se room 8), normal ending(se room 7), and sad ending(se room 3)`

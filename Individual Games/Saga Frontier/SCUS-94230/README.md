@@ -1,0 +1,1 @@
+SCUS-94230-1.mcd - https://gamefaqs.gamespot.com/ps/198537-saga-frontier/saves - Dated 07/01/2007 By Hassan `All 7 characters at the end of their quests.`
