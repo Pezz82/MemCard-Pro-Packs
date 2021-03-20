@@ -15,3 +15,5 @@ slide into my DMs on twitter @thejohnperry
 all of the credit for these saves needs to go to the original individuals who created them and uploaded them to GameFAQs and other sites  
 
 for individual saves I have included the names of the original uploaders but if you would like your save removed please let me know and I will remove it 
+
+you can also report any broken saves or files that are not as described and I will amend or remove 
