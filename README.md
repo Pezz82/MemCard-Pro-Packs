@@ -5,10 +5,10 @@ This is a repository of PS1 Memory Card Files for MemCard Pro + XStation Users -
 
 Instructions 
 ---------------------------------------------
-Download the MEMCARD PRO PACK.7z - unpack it into your "MemoryCards" folder in your MemCard Pro SD card 
-make sure Xstation is on the latest Firmware - virtual memory cards should automatically load when xstation detects the corresponding game
-be sure to back up any save files for the same games that you already have on your card or rename the files so they dont clash 
-remember you may have up to 8 Mem cards per game 
+Download the MEMCARD PRO PACK.7z - unpack it into your "MemoryCards" folder in your MemCard Pro SD card. 
+Make sure Xstation is on the latest Firmware - virtual memory cards should automatically load when xstation detects the corresponding game.
+Be sure to back up any save files for the games that you already have on your card or rename the files so they dont clash with the ones in this pack. 
+Remember you may have up to 8 Mem cards per game 
 ----------------------------------------------
 
 GAMES are USA versions unless stated if you have any interesting saves you would like added to this pack
