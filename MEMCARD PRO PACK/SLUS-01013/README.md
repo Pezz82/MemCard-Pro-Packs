@@ -1,0 +1,1 @@
+SLUS-01013-1.mcd - https://gamefaqs.gamespot.com/ps/256525-legend-of-mana/saves - Dated 03/08/2011 By DJ_Shang_Tsung `Two saves (without cheats): 1. End of the game (last mission, 60 quests completed; rare equipment, magic and pets; main heroine, NPC and pets have high levels). 2. "New game+" mode.`
