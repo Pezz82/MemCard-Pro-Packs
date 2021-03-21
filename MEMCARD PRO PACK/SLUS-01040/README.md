@@ -1,1 +1,0 @@
-SLUS-01040-1.mcd - https://gamefaqs.gamespot.com/ps/914326-vagrant-story/saves - Dated 01/25/2007 By AshleyRiot2006 `Ultimate Damascus Dread Shield, full set of Ultimate Damascus Dread Armor, 15 Ultimate Damascus Weapons, Dread / Jazeraint / Hoplite / Oval / Kite / Tower Shields in all materials, Max Stats, Max Points, 40th playthrough`

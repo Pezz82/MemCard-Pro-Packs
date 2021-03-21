@@ -1,1 +1,0 @@
-SLUS-00933-1.mcd - https://gamefaqs.gamespot.com/ps/198538-saga-frontier-2/saves - Dated 05/15/2001 By St.Ajora `Contains a high powered end man, a safe save to level up and finally a game clear save to start in new game plus.`
