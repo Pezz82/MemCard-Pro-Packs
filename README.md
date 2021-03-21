@@ -8,7 +8,7 @@ Instructions
 Download the MEMCARD PRO PACK (Default Channel 1).7z - unpack it into your "MemoryCards" folder in your MemCard Pro SD card. 
 Make sure Xstation is on the latest Firmware - virtual memory cards should automatically load when xstation detects the corresponding game.
 Be sure to back up any save files for the games that you already have on your card or rename the files so they dont clash with the ones in this pack. 
-Remember you may have up to 8 Mem cards per gam. if you prefer to use your own memory cards by default you can Download the MEMCARD PRO PACK (Default Channel 8).7z instead 
+Remember you may have up to 8 Mem cards per game. if you prefer to use your own memory cards by default you can Download the MEMCARD PRO PACK (Default Channel 8).7z instead 
 ----------------------------------------------
 
 GAMES are USA versions unless stated if you have any interesting saves you would like added to this pack
