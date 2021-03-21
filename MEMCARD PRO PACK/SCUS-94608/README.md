@@ -1,1 +1,0 @@
-SCUS-94608-1.mcd - https://gamefaqs.gamespot.com/ps/199299-wild-arms/saves - Dated 06/08/2000 By Jnpacblo `All Weapons, Main character level 60, End of game.`

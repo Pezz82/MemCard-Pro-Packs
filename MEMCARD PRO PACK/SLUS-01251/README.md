@@ -1,1 +1,0 @@
-SLUS-01251-1.mcd - https://gamefaqs.gamespot.com/ps/197338-final-fantasy-ix/saves - Dated 05/19/2008 Made By XtraT `Legit Excalibar II run, Lich is killed just go up the ladders to pick up the sword. Lowest levels for maximum stats possible, all missable items looted (aka perfect E2PG file). 10h43m`

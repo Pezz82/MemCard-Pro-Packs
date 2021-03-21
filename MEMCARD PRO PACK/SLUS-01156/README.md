@@ -1,1 +1,0 @@
-SLUS-01156-1.mcd - https://gamefaqs.gamespot.com/ps/199175-valkyrie-profile/saves - Dated 03/03/2001 by Artking `Endings A, B, C. Seraphic Gate completed 10 times with everyone at level 99 and Voice Collection 100% complete.`
