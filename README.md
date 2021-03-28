@@ -1,4 +1,4 @@
-# MemCard-Pro-Packs
+# MemCard-Pro-Packs (X-Station Compatible)
 PS1 Memory Card MCD Packs Ready for MemCardPro
 
 This is a repository of PS1 Memory Card Files for MemCard Pro + XStation Users - the file names are renamed to allow the MemCardPro to automatically load the correct Virtual Mem Card when used with Xstation
