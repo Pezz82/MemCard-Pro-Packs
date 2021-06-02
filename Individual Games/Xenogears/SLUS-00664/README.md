@@ -1,5 +1,5 @@
-From carlos2003 (06/09/2003; 131KB)
-Start of game, level 2, all items and Rps badge won.
+From @birdybro (06/01/2021; 131KB)
+Start of game, level 1, RPS badge won.
 
 From Vey (06/04/2000; 131KB)
 Saved on very end of game, ready for final battle: Max Status, Max Upgrade for gears, Ultimate Weapon for character & gears
